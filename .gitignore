@@ -12,4 +12,4 @@ oracles/contracts/lib
 .env
 
 #node
-oracles/data/node_modules/
+oracles/data/ts/node_modules/
