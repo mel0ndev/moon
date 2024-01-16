@@ -1,7 +1,7 @@
 # Compiler files
-oracles/cache/
-oracles/out/
-oracles/lib
+oracles/contracts/cache/
+oracles/contracts/out/
+oracles/contracts/lib
 
 # Ignores development broadcast logs
 !/broadcast
@@ -10,3 +10,6 @@ oracles/lib
 
 # Dotenv file
 .env
+
+#node
+oracles/data/node_modules/
