@@ -1,6 +1,7 @@
 # Compiler files
-cache/
-out/
+oracles/cache/
+oracles/out/
+oracles/lib
 
 # Ignores development broadcast logs
 !/broadcast
