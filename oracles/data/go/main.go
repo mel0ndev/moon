@@ -19,4 +19,6 @@ func main() {
 	}
 
 	fmt.Printf("the block number is: %v", number)
+
+	prices.getTokenPrice()
 }
